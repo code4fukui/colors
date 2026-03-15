@@ -1,5 +1,7 @@
 # colors
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 This project provides web color data in various formats, including CSV, JSON, and CBOR, sourced from the [CSS Color Module Level 3](https://www.w3.org/TR/css-color-3/) specification.
 
 ## Features
