@@ -1,6 +1,6 @@
 # colors
 
-WebカラーのCSV、JSON、CBORファイルを提供するリポジトリです。データソースは[CSS Color Module Level 3](https://www.w3.org/TR/css-color-3/)仕様に基づいています。
+このリポジトリには、[CSS Color Module Level 3](https://www.w3.org/TR/css-color-3/)仕様に基づいた、Webカラーのデータファイルが含まれています。CSVやJSON、CBORなどの形式で提供されています。
 
 ## 機能
 - 合計140色のWebカラー情報を含む
@@ -10,4 +10,4 @@ WebカラーのCSV、JSON、CBORファイルを提供するリポジトリです
 CSS Color Module Level 3仕様に掲載されているWebカラーを収録しています。各カラーの名称とHEXコードが含まれます。
 
 ## ライセンス
-MITライセンスの下で提供されています。
+このプロジェクトはMITライセンスの下で提供されています。
